@@ -1,0 +1,23 @@
+name: scan
+favicon: null
+layout_spectrum: 0.6629658869933337
+typography_spectrum: 0.9167423318140209
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.19605491310358047
+  lightness: 0.7480027046985924
+  saturation: 0.4302244137506932
+  rhythmicContrast: 0.7697645835578442
+purpose: []
