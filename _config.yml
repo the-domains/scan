@@ -1,7 +1,7 @@
 name: scan
 favicon: null
-layout_spectrum: 0.03131
-typography_spectrum: 0.9167423318140209
+layout_spectrum: 0.49173
+typography_spectrum: 0.30892
 cta:
   domain: null
   bucket: null
