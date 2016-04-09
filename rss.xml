@@ -4,7 +4,7 @@
         <description><![CDATA[scan]]></description>
         <link>https://thegrid.ai/scan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 18:36:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 18:36:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/scan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[BONNE FÊTE LUC!]]></title>
@@ -12,13 +12,6 @@
             <link>https://youtu.be/B4AJTD38j9Q</link>
             <guid isPermaLink="false">bacf9f8c-3ea7-41a9-bd9b-9399e4d40787</guid>
             <pubDate>Sat, 09 Apr 2016 18:36:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LUC]]></title>
-            <description><![CDATA[<article><h1>LUC</h1><p>Uploaded by Paul Menzies on 2016-04-04.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39e4c0233406dc0d5cdde37b256baf51e5887e2d.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=shteMZJwHGA</link>
-            <guid isPermaLink="false">06e044cf-01d0-45b1-b2da-ea0a7763406d</guid>
-            <pubDate>Fri, 08 Apr 2016 05:13:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
